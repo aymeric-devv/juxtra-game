@@ -1,0 +1,2 @@
+(A) begin scene game manager tag:player due:2025-05-12
+(B) just simple buttons to switch scenes @context +Projetc
