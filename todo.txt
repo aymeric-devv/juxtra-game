@@ -1,2 +1,6 @@
-(A) begin scene game manager tag:player due:2025-05-12
-(B) just simple buttons to switch scenes @context +Projetc
+ ## DOING ##
+	(A) create test scenes
+
+ ## TODO ##
+	(B) create test rigidbodies
+	(C) basics movements two mods
