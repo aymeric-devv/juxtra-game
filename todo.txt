@@ -2,5 +2,6 @@
 	(A) create test scenes
 
  ## TODO ##
-	(B) create test rigidbodies
-	(C) basics movements two mods
+	(A) finite state machine gdquest
+	(C) basics movements : dash, jump, move (youtube playlist)
+	(B) better tileset

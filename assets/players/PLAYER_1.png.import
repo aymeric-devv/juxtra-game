@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cj1w0s5jdq24b"
-path="res://.godot/imported/waterfalls_0_1.png-4c1415af786db87d1fc0dc59cc2e6b4c.ctex"
+uid="uid://b2rmgon6ehbwy"
+path="res://.godot/imported/PLAYER_1.png-db7fff6e00620910ac755cb060f0a782.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/map/waterfalls_0_1.png"
-dest_files=["res://.godot/imported/waterfalls_0_1.png-4c1415af786db87d1fc0dc59cc2e6b4c.ctex"]
+source_file="res://assets/players/PLAYER_1.png"
+dest_files=["res://.godot/imported/PLAYER_1.png-db7fff6e00620910ac755cb060f0a782.ctex"]
 
 [params]
 
