@@ -15,6 +15,15 @@ config/version="0.1"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[file_customization]
+
+folder_colors={
+"res://assets/": "yellow",
+"res://assets/levels/tileset/": "orange",
+"res://assets/levels/tileset/saved/": "red",
+"res://scenes/": "purple"
+}
+
 [input]
 
 move_left_1={
@@ -53,8 +62,18 @@ dash_1={
 ]
 }
 
+[layer_names]
+
+2d_render/layer_1="Ball"
+2d_render/layer_2="Objects"
+2d_render/layer_3="Ground"
+2d_render/layer_4="Background"
+2d_physics/layer_1="Ball"
+2d_physics/layer_2="Objects"
+2d_physics/layer_3="Ground"
+2d_physics/layer_4="Player"
+
 [rendering]
 
-textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
