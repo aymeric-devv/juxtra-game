@@ -1,9 +1,7 @@
  ## DOING ##
-	(B) better tileset : create onne with pixxelorama or kenney (spacing !!!!) ?
 	(A) local mltiplayer level with clouds
 	(C) player's code : basics movements,  finite state machine gdquest gotut, custom object interactionsss, initialize player 2 & 1
 	
  ## TODO ##
 	(E) player 2 inputs
 	(D) animations ?
-	(B) software upgarde (youtube) https://libresprite.github.io/#!/

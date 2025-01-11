@@ -1,4 +1,4 @@
-[gd_resource type="TileSet" load_steps=17 format=3 uid="uid://cosd74bwjfgqp"]
+[gd_resource type="TileSet" load_steps=18 format=3 uid="uid://cosd74bwjfgqp"]
 
 [ext_resource type="Texture2D" uid="uid://bsb7nwxa4r66p" path="res://assets/levels/tileset/farm.png" id="1_ue0mq"]
 [ext_resource type="Texture2D" uid="uid://bhlfar7ukfcka" path="res://assets/levels/tileset/food.png" id="2_1kbwd"]
@@ -8,6 +8,8 @@
 [ext_resource type="Texture2D" uid="uid://jl424wxw1u7u" path="res://assets/levels/tileset/rock.png" id="6_wc4lj"]
 [ext_resource type="Texture2D" uid="uid://d1r5cqd3nurag" path="res://assets/levels/tileset/sand.png" id="7_emwwo"]
 [ext_resource type="Texture2D" uid="uid://bwyeasxw8vn57" path="res://assets/levels/tileset/stone.png" id="8_gbld6"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ppui2"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_cvklv"]
 texture = ExtResource("1_ue0mq")
@@ -1711,8 +1713,8 @@ texture_region_size = Vector2i(18, 18)
 
 [resource]
 tile_size = Vector2i(18, 18)
-physics_layer_0/collision_layer = 4
-physics_layer_0/collision_mask = 5
+physics_layer_0/collision_layer = 1
+physics_layer_0/physics_material = SubResource("PhysicsMaterial_ppui2")
 sources/0 = SubResource("TileSetAtlasSource_cvklv")
 sources/1 = SubResource("TileSetAtlasSource_ysfkx")
 sources/2 = SubResource("TileSetAtlasSource_aawv6")
