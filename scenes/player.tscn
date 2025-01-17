@@ -389,7 +389,7 @@ script = ExtResource("1_0xtnp")
 texture_filter = 1
 position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_pu5gm")
-animation = &"wait_2"
+animation = &"switch_to_idle_1"
 
 [node name="Hitbox" type="CollisionShape2D" parent="."]
 position = Vector2(0, -9)
