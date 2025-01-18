@@ -72,4 +72,4 @@ dash_1={
 
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
-environment/defaults/default_clear_color=Color(0.29662, 0.443629, 1, 1)
+environment/defaults/default_clear_color=Color(0.273873, 0.273873, 0.273873, 0.643137)

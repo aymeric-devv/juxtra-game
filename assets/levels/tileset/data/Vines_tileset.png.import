@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgvo44jfsf6ca"
-path="res://.godot/imported/Farmer Story Sprites.png-af11b02d0f98c6abaea44fa08d218dde.ctex"
+uid="uid://bwd0t2dqlqghw"
+path="res://.godot/imported/Vines_tileset.png-3382e0a0232e13ac81bcae6afef6db30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/levels/tileset/data/Farmer Story Sprites.png"
-dest_files=["res://.godot/imported/Farmer Story Sprites.png-af11b02d0f98c6abaea44fa08d218dde.ctex"]
+source_file="res://assets/levels/tileset/data/Vines_tileset.png"
+dest_files=["res://.godot/imported/Vines_tileset.png-3382e0a0232e13ac81bcae6afef6db30.ctex"]
 
 [params]
 
